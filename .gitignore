@@ -1,3 +1,9 @@
 ret_sample.csv
 sample_preview.csv
 test.png
+North America Company Name Merge by DataDate-GVKEY-IID.csv
+Global (ex Canada and US) Company Name Merge by DataDate-GVKEY-IID.csv
+data/*
+data
+__pycache__
+__pycache__/*
