@@ -13,7 +13,7 @@ From there, we will select the top companies to go *long* (buy), and *short* (se
 
 ## Installation
 On the main folder, run 
-``` pip install -r requirements.txt ```
+``` pip install -r requirements.txt ``` from the cmd
 
 Make sure to put ```ret_sample.csv``` in the main folder too.
 
@@ -26,4 +26,6 @@ Run ```LSTM.py```to train an AI on some company data.
 
 
 ```run.py``` gives an example of the model's output, and compares it to real expected stock return value.
+
+```finBert.py```is a basic implementation of the finBERT LLM. It takes a *string* as an input and output a *dict['sentiment','score']*
 
