@@ -8,3 +8,5 @@ data
 __pycache__
 __pycache__/*
 model/
+key.py
+text_us_2006.pkl
