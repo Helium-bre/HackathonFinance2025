@@ -29,3 +29,6 @@ Run ```LSTM.py```to train an AI on some company data.
 
 ```finBert.py```is a basic implementation of the finBERT LLM. It takes a *string* as an input and output a *dict['sentiment','score']*
 
+### Counter
+Caffeine: 825 mg
+Time spent: 20 Hours
