@@ -31,8 +31,11 @@ Run ```LSTM.py```to train an AI on some company data.
 
 ### Counter
 
-Caffeine: 825 mg
+Caffeine: 990 mg
 
-Time spent: 21 Hours
+Time spent: 25 Hours
 
-Nb sessions: 4
+Nb sessions: 6
+
+
+Please don't plagiarise my work for a hackathon, or at least make sure to mention my project. Plagiarism is bad, and can be severly sanctioned. You can however contact me at hehugo1024@gmail.com if you want to discuss about the project, or if you need any guidance.
