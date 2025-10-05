@@ -10,7 +10,7 @@ FILTER_COL = "excntry"
 # index = int(sys.argv[1])
 
 ids = pd.read_csv("Company_ID.csv")
-for i in range(1000):
+for i in range(201,len(ids),2):
 
     id = ids.iloc[i].values[0]
     print(id)
