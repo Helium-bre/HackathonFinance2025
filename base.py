@@ -3,17 +3,20 @@ import pandas as pd
 import torch
 import scipy
 import pywt
-
+import glob
 
 
 X_COL = ["be_me","sale_me","cash_at","ni_ar1","ni_be","gp_at","op_at","ebit_sale","at_gr1", "capx_gr1", "inv_gr1", 
         "sale_gr1", "ret_12_1", "ret_3_1", "prc_highprc_252d", "beta_60m", "ivol_capm_252d", "rvol_21d", "div12m_me", "z_score"]
 print(len(X_COL))
 ALL_COL = X_COL + ["stock_ret"]
-PATHS = ["data/comp_274814_01W.csv","data/crsp_59459.csv","data/comp_210956_01W.csv","data/comp_204251_01W.csv","data/comp_209856_01W.csv",
-         "data/crsp_81028.csv","data/comp_256545_01W.csv","data/comp_274181_01W.csv","data/crsp_92648.csv","data/comp_222763_01W.csv",
-         "data/comp_238449_01W.csv","data/comp_275124_01W.csv","data/comp_256752_01W.csv","data/comp_066376_01C.csv","data/comp_211917_01W.csv"]
-TEST_PATHS = ["data/comp_015659_02W.csv","data/comp_101270_01W.csv","data/comp_201257_01W.csv"]
+# PATHS = ["data/comp_274814_01W.csv","data/crsp_59459.csv","data/comp_210956_01W.csv","data/comp_204251_01W.csv","data/comp_209856_01W.csv",
+#          "data/crsp_81028.csv","data/comp_256545_01W.csv","data/comp_274181_01W.csv","data/crsp_92648.csv","data/comp_222763_01W.csv",
+#          "data/comp_238449_01W.csv","data/comp_275124_01W.csv","data/comp_256752_01W.csv","data/comp_066376_01C.csv","data/comp_211917_01W.csv"]
+PATHS = glob.glob("data/*.csv")
+
+# TEST_PATHS = ["data/comp_015659_02W.csv","data/comp_101270_01W.csv","data/comp_201257_01W.csv"]
+TEST_PATHS = PATHS
 Y_pred = "stock_ret"
 minmaxdf = pd.read_csv("MinMaxVal.csv")
 zscoredf = pd.read_csv("Zscore.csv")
@@ -82,7 +85,10 @@ def get_tensor_seq2one(df : pd.DataFrame,y : str ,x : list ,length : int,normali
     x_arr = np.asarray(dfx)
     x_arr = np.hstack([x_arr,y_arr.reshape(-1,1)])
     # print(dfx)
-
+    if len(x_arr) < length:
+        #raise ValueError('time series is smaller than window size')
+        print("smaller than window size")
+        return torch.from_numpy(np.array([])),torch.from_numpy(np.array([]))
     if wavelet != 0 :
         wave = "db4"
         wavelet_x = np.zeros((len(x_arr),wavelet*len(x_arr[0])))
@@ -101,21 +107,19 @@ def get_tensor_seq2one(df : pd.DataFrame,y : str ,x : list ,length : int,normali
     
     
 
-    if len(x_arr) < length:
-        raise ValueError('time series is smaller than window size')
 
     X = torch.from_numpy(np.array([x_arr[i:length + i,:] for i in range(len(x_arr) - length -1)]))
     Y = torch.from_numpy(np.array([[y_arr[length + i+1]] for i in range(len(y_arr) - length -1)]))
     return X,Y
 
 
-def get_dataset(path_list : list,y : str ,x : list , length : int, method = "seq2one",normalize = "zscore", wavelet = 3):
+def get_dataset(path_list : list,y : str ,x : list , length : int, method = "seq2one",normalize = "zscore", wavelet = 3, date = "20150131",test = None):
     """ Return a TensorDataset of all time series with a sliding window approach of given length"""
     X = None
     Y = None
     for path in path_list : 
         if method == "seq2one":
-            df = pd.read_csv(path)
+            df = filter_by_date(path,date = date, test = test, length = length)
             Xpath,Ypath = get_tensor_seq2one(df,y,x,length,normalize = normalize, wavelet = wavelet)
         else : 
             Xpath,Ypath = get_tensor(path,y,x,length,normalize = normalize, wavelet = wavelet)
@@ -131,6 +135,20 @@ def get_dataset(path_list : list,y : str ,x : list , length : int, method = "seq
     Y = Y.type(torch.float32)
     return torch.utils.data.TensorDataset(X,Y)
 
+
+def filter_by_date(path : str, date : str, test: bool = False, length: int = 0):
+    """ Returns all predictions before a given date """
+    df = pd.read_csv(path)
+    df["date"] = pd.to_datetime(df["date"].astype(str), format="%Y%m%d")
+
+    cutoff_date = pd.to_datetime(date, format="%Y%m%d")
+    if not test :
+        filtered = df[df["date"] < cutoff_date]
+        
+    elif test:
+        start_date = cutoff_date  - pd.DateOffset(months=length)
+        filtered = df[df["date"] < cutoff_date and df["date"] >= start_date]
+    return filtered
 
 
 if __name__ == "__main__":

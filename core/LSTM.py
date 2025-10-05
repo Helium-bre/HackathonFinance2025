@@ -137,12 +137,12 @@ def train(model,dataloader,testloader,epochs,criterion,optimizer,device):
 
 if __name__ == "__main__":
     wavelet = 1
-    data = base.get_dataset(base.PATHS,base.Y_pred,base.X_COL,36,wavelet = wavelet)
-    test_data = base.get_dataset(base.TEST_PATHS,base.Y_pred,base.X_COL,36,wavelet = wavelet)
+    data = base.get_dataset(base.PATHS,base.Y_pred,base.X_COL,60,wavelet = wavelet, date = "20150131",test = False)
+    test_data = base.get_dataset(base.TEST_PATHS,base.Y_pred,base.X_COL,36,wavelet = wavelet,date = "20150331",test = True)
     dataloader = torch.utils.data.dataloader.DataLoader(data,batch_size = 5,shuffle = True)
     testloader = torch.utils.data.dataloader.DataLoader(test_data,batch_size = 5,shuffle = True)
 
-    model = LSTM_seq2one(21*wavelet,64,3,1) # seq2one has one more input feature : "storck_ret"
+    model = LSTM_seq2one(21*wavelet,96,3,1) # seq2one has one more input feature : "storck_ret"
     optimizer = optim.Adam(model.parameters(),lr = 0.001)
     criterion = nn.MSELoss()
     loss,test_loss = train(model,dataloader,testloader,100,criterion,optimizer,"cpu")
