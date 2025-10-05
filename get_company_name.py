@@ -10,11 +10,16 @@ COMPANY = "comp_001081_01C"
 
 Yvar = "stock_ret"
 Xvar = "date"
-data = pd.read_csv(DATAPATH,chunksize = CHUNKSIZE)
-data = data.get_chunk(1000000)
-print(len(data))
-companies = list(set(np.array(data["id"])))
+
+companies = []
+
+
+
+for chunk in pd.read_csv(DATAPATH,chunksize = CHUNKSIZE):
+    companies = np.asarray(list(set(np.concat([np.asarray(chunk["id"]),companies]))))
+    print(companies)
+    print("chunk done")
+
 
 companies_df = pd.DataFrame({"company":companies})
 companies_df.to_csv("Company_ID.csv",index = False)
-
