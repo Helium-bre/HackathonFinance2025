@@ -1,0 +1,2251 @@
+item 2. 
+ 
+ management s discussion and analysis of financial condition and results of operations. 
+
+19 item 2. management s discussion and analysis of financial condition and results of operations. 
+
+introduction and overview 
+
+this management s discussion and analysis of financial condition and results of operations is
+intended to provide investors with an understanding of tektronix operating performance and its
+financial condition. a discussion of our business, including our strategy, products and
+competition is included in part i of tektronix form 10-k for the fiscal year ended may 28, 2005.
+
+tektronix develops, manufactures, markets and services test, measurement and monitoring
+solutions to a wide variety of customers in many industries, including computing, communications,
+semiconductors, education, government, military/aerospace, research, automotive and consumer
+electronics. unless otherwise indicated by the context, the terms tektronix , we , us or our 
+refer to tektronix as the parent company and its subsidiaries.
+
+we enable our customers to design, manufacture, deploy, monitor and service next-generation
+global communications networks, computing, pervasive and advanced technologies. revenue is derived
+principally through the development, manufacturing, marketing and selling of a broad range of
+products and related components, support services and accessories. these products include
+oscilloscopes, logic analyzers, signal sources, spectrum analyzers, communications network
+management and diagnostics solutions and video test equipment. we maintain operations in four
+major geographies: the americas, including the united states and other americas, which includes
+mexico, canada and south america; europe, which includes europe, russia, the middle east and
+africa; the pacific, which includes china, india, korea, and singapore; and japan.
+
+tektronix results of operations and financial condition may be affected by a variety of
+factors. in our opinion, the most significant of these factors include the economic strength of
+the technology markets into which we sell our products, our ability to develop compelling
+technology solutions and deliver these to the marketplace in a timely manner, and the actions of
+competitors. these significant risk factors affecting tektronix are discussed further in the risks
+and uncertainties section below.
+
+the markets that we serve are very diverse and include a cross-section of the technology
+industries. accordingly, our business is cyclical and tends to correlate to the overall
+performance of the technology sector. during the latter part of fiscal year 2003, we began to
+experience the stabilization of certain markets that had been depressed as a result of the general
+downturn in the technology sector. fiscal year 2004 saw a more broad-based recovery. during
+fiscal year 2005, growth rates moderated as compared with the prior fiscal year. in the fourth
+quarter of fiscal year 2005 and into the first quarter of fiscal year 2006 orders softened in a
+number of our product areas and in most regions. toward the end of the first quarter of fiscal
+year 2006, our markets began to strengthen and that continued into the second quarter of fiscal
+year 2006.
+
+we face significant competition in many of the markets in which we sell our products.
+tektronix competes on many factors including product performance, technology, product availability
+and price. to compete effectively, we must deliver compelling products to the market in a timely
+manner. accordingly, we make significant investments into the research and development of new
+products and the sales channels necessary to deliver products to the market. even during periods
+where economic conditions have reduced our revenues, such as those experienced in fiscal years 2002
+and 2003, we continued to invest significantly in the development of new products and sales
+channels. a discussion of our products and competitors is included in item 1 business of
+tektronix form 10-k for the fiscal year ended may 28, 2005.
+
+a component of our strategy includes focusing investments in certain product categories to
+expand our existing market positions. expansion in these certain product categories may come
+through internal growth or from acquisitions.
+
+on september 30, 2004, tektronix acquired inet technologies, inc. inet ), a company that
+engaged primarily in network monitoring. the acquisition of inet has further expanded our
+communications network management and diagnostic product offerings. the acquisition of inet is
+described below in this management s discussion and analysis.
+
+on june 13, 2005, tektronix acquired tda systems, a small supplier of time domain software
+tools for high speed serial data customers. the purchase price was approximately 4.1 million,
+including
+
+19
+
+table of contents 
+
+2.1 million in shares of tektronix common stock and 2.0 million in contingent cash consideration
+held in escrow to be paid over a two year period.
+
+on november 8, 2005, tektronix acquired vqual ltd., a leading provider of software tools for
+analysis, test and optimization of compressed digital media, based in bristol, united kingdom.
+this acquisition will enable tektronix to offer its customers a complete suite of in-house
+compressed video analysis products. the purchase price was approximately 7.4 million and is
+subject to upward adjustment based on achievement of predetermined sales levels through july 2007.
+
+acquisition of inet technologies, inc. 
+
+during the second quarter of fiscal year 2005, tektronix acquired inet technologies, inc. inet ), a leading global provider of communications software solutions that enable network
+operators to more strategically and profitably operate their businesses. inet s products address
+current and next generation mobile and fixed networks, including mobile data and voice over packet
+(also referred to as voice over internet protocol or voip) technologies. inet s unified assurance
+solutions enable network operators to simultaneously manage their voice and data services at the
+network, service, and customer layers by capturing, correlating, and analyzing network-wide traffic
+in real time. inet s diagnostic products assist equipment manufacturers and network operators to
+quickly and cost effectively design, deploy, and maintain current and next generation networks and
+network elements. through this acquisition tektronix significantly enhances its position in the
+overall network management and diagnostic market and expects to accelerate the delivery of products
+and solutions for network operators and equipment manufacturers seeking to implement next
+generation technologies such as general packet radio service (gprs), universal mobile
+telecommunications systems (umts) and voip.
+
+tektronix acquired all of inet s outstanding common stock for 12.50 per share consisting of
+ 6.25 per share in cash and 6.25 per share in tektronix common stock. the cash consideration of
+ 247.6 million, the value of tektronix common stock of 247.5 million, and the fair values of stock
+options and restricted share rights assumed are included in the purchase price that was allocated
+to the underlying assets acquired and liabilities assumed based on their estimated fair values.
+the purchase price allocation is subject to further changes related to resolution of tax
+contingencies associated with ongoing tax audits for pre-acquisition periods. the purchase price
+and resulting allocation to the underlying assets acquired, net of deferred income taxes, are
+presented below as of november 26, 2005.
+
+the following table presents the total purchase price (in thousands):
+
+cash paid
+
+247,561 
+
+stock issued
+
+247,543 
+
+stock options assumed
+
+9,658 
+
+restricted share rights assumed
+
+321 
+
+transaction costs
+
+5,224 
+
+unearned stock-based compensation
+
+(3,403) 
+
+liabilities assumed
+
+36,735 
+
+total purchase price
+
+543,639 
+
+20
+
+table of contents 
+
+the following table presents the allocation of the purchase price to the assets acquired,
+net of deferred income taxes, based on their fair values (in thousands):
+
+cash and cash equivalents
+
+158,821 
+
+accounts receivable
+
+18,504 
+
+inventories
+
+18,025 
+
+tax benefit from transaction costs
+
+1,209 
+
+other current assets
+
+6,708 
+
+property, plant, and equipment
+
+10,662 
+
+intangible assets
+
+121,953 
+
+goodwill
+
+219,653 
+
+other long term assets
+
+811 
+
+in-process research and development
+
+32,237 
+
+deferred income taxes
+
+(44,944) 
+
+total assets acquired, net of deferred income taxes
+
+543,639 
+
+the following table presents the details of the intangible assets purchased in the inet
+acquisition as of november 26, 2005:
+
+(in years) 
+
+weighted 
+
+average 
+
+accumulated 
+
+(in thousands) 
+ 
+ useful life 
+
+cost 
+
+amortization 
+
+net 
+
+developed technology
+
+4.8 
+
+87,004 
+
+(21,577) 
+
+65,427 
+
+customer relationships
+
+4.8 
+
+22,597 
+
+(5,622) 
+
+16,975 
+
+covenants not to compete
+
+4.0 
+
+1,200 
+
+(350) 
+
+850 
+
+tradename
+
+not amortized 
+
+11,152 
+
+11,152 
+
+total intangible assets purchased
+
+121,953 
+
+(27,549) 
+
+94,404 
+
+amortization expense for intangible assets purchased in the inet acquisition has been
+recorded on the condensed consolidated statements of operations as follows:
+
+fiscal quarter ended 
+
+two fiscal quarters ended 
+
+(in thousands) 
+ 
+ nov. 26, 2005 
+
+nov. 27, 2004 
+
+nov. 26, 2005 
+
+nov. 27, 2004 
+
+cost of sales
+
+4,624 
+
+3,080 
+
+9,248 
+
+3,080 
+
+acquisition related costs and amortization
+
+1,279 
+
+846 
+
+2,558 
+
+846 
+
+total
+
+5,903 
+
+3,926 
+
+11,806 
+
+3,926 
+
+the estimated amortization expense of intangible assets purchased in the inet acquisition
+for the current fiscal year, including amounts amortized to date, and in future years will be
+recorded on the condensed consolidated statements of operations as follows:
+
+acquisition 
+
+related costs 
+
+total 
+
+cost of 
+
+and 
+
+for the 
+
+(in thousands) 
+ 
+ sales 
+
+amortization 
+
+fiscal year 
+
+fiscal year 
+
+2006
+
+18,495 
+
+5,117 
+
+23,612 
+
+2007
+
+18,495 
+
+5,117 
+
+23,612 
+
+2008
+
+16,670 
+
+4,621 
+
+21,291 
+
+2009
+
+15,759 
+
+4,174 
+
+19,933 
+
+2010
+
+5,256 
+
+1,354 
+
+6,610 
+
+total
+
+74,675 
+
+20,383 
+
+95,058 
+
+21
+
+table of contents 
+
+the condensed consolidated statements of operations include the results of operations of
+inet since september 30, 2004. the following (unaudited) pro forma consolidated results of
+operations have been prepared as if the acquisition of inet had occurred at may 30, 2004, the
+beginning of tektronix fiscal year 2005.
+
+fiscal quarter ended 
+
+two fiscal quarters ended 
+
+(in thousands, except per share amounts) 
+
+nov. 27, 2004 
+
+nov. 27, 2004 
+
+pro forma 
+
+sales
+
+280,530 
+
+553,973 
+
+net earnings
+
+30,700 
+
+64,629 
+
+net earnings per share basic
+
+0.34 
+
+0.71 
+
+net earnings per share diluted
+
+0.34 
+
+0.70 
+
+the write-off of in-process research and development ipr d is excluded from the
+calculation of pro forma net earnings and net earnings per share in the table shown above.
+
+the pro forma information is presented for informational purposes only and is not necessarily
+indicative of the results of operations that actually would have been achieved had the acquisition
+been consummated as of that time, and it is not intended to be a projection of future results.
+
+business realignment costs 
+
+business realignment costs represent actions to realign our cost structure in response to
+significant events and primarily include restructuring actions and impairment of assets resulting
+from reduced business levels. business realignment actions taken in recent fiscal years were
+intended to reduce our worldwide cost structure across all major functions in response to the
+dramatic economic decline in 2001 through 2003, which severely impacted markets into which we sell
+our products. major operations impacted include manufacturing, engineering, sales, marketing and
+administrative functions. in addition to severance, we incurred other costs associated with
+restructuring our organization, which primarily represented facilities contracts and other exit
+costs associated with aligning the cost structure to appropriate levels. restructuring actions can
+take significant time to execute, particularly if they are being conducted in countries outside the
+united states. as such, expenses associated with the actions identified during the 2001 through
+2003 timeframe extended into the beginning of the first quarter of fiscal year 2006. we believe
+the restructuring actions implemented in recent fiscal years have resulted in the cost savings
+anticipated for those actions.
+
+business realignment costs incurred during the first two quarters of fiscal year 2006
+primarily reflected actions taken in response to recent softening in orders in some of our product
+areas at the end of fiscal year 2005 and the beginning of the first quarter of fiscal year 2006.
+business realignment costs of 1.9 million in the second quarter of fiscal year 2006 primarily
+included severance and related costs for 17 employees. for the first two fiscal quarters of fiscal
+year 2006, business realignment costs of 4.4 million included severance and related costs of 4.2
+million for 64 employees and 0.2 million for contractual obligations. we expect to realize future
+annual salary cost savings from actions taken in the first two quarters of fiscal year 2006. at
+november 26, 2005, liabilities remained for employee severance and related benefits for 53
+employees.
+
+22
+
+table of contents 
+
+activity for the above described actions during the first two quarters of fiscal year 2006 was
+as follows:
+
+costs 
+
+balance 
+
+incurred 
+
+balance 
+
+may 28, 
+
+and other 
+
+cash 
+
+non-cash 
+
+nov. 26, 
+
+(in thousands) 
+ 
+ 2005 
+
+adjustments 
+
+payments 
+
+adjustments 
+
+2005 
+
+fiscal year 2006 actions: 
+
+employee severance and
+related benefits
+
+4,192 
+
+(1,921) 
+
+2,271 
+
+contractual obligations
+
+111 
+
+(111) 
+
+accumulated currency
+translation loss, net
+
+(36) 
+
+36 
+
+total
+
+4,267 
+
+(2,032) 
+
+36 
+
+2,271 
+
+fiscal year 2005 actions: 
+
+employee severance and
+related benefits
+
+568 
+
+(528) 
+
+(1) 
+
+39 
+
+contractual obligations
+
+103 
+
+49 
+
+(123) 
+
+29 
+
+total
+
+671 
+
+49 
+
+(651) 
+
+(1) 
+
+68 
+
+fiscal year 2004 actions: 
+
+employee severance and
+related benefits
+
+681 
+
+(167) 
+
+514 
+
+total
+
+681 
+
+(167) 
+
+514 
+
+fiscal year 2003 and 2002 actions: 
+
+employee severance and
+related benefits
+
+2 
+
+1 
+
+3 
+
+contractual obligations
+
+926 
+
+45 
+
+(245) 
+
+726 
+
+total
+
+928 
+
+45 
+
+(245) 
+
+1 
+
+729 
+
+total of all actions
+
+2,280 
+
+4,361 
+
+(3,095) 
+
+36 
+
+3,582 
+
+critical accounting estimates 
+
+we have identified the critical accounting estimates, which are those that are most
+important to our portrayal of the financial condition and operating results and require difficult
+and subjective judgments, often as a result of the need to make estimates of matters that are
+inherently uncertain. significant estimates underlying the accompanying consolidated financial
+statements and the reported amount of net sales and expenses include revenue recognition,
+contingencies, intangible assets valuation, pension plan assumptions and the assessment of the
+valuation of deferred income taxes and income tax contingencies.
+
+revenue recognition 
+
+we recognize product revenue when persuasive evidence of an arrangement exists, delivery has
+occurred, the sales price is fixed or determinable and collection is probable. these criteria are
+met for the majority of our product sales at the time the product is shipped under fob shipping
+point shipping terms. upon shipment, we also provide for estimated costs that may be incurred for
+product warranties and for sales returns. when other significant obligations or acceptance terms
+remain after products are delivered, revenue is recognized only after such obligations are
+fulfilled or acceptance by the customer has occurred.
+
+contracts for our network monitoring solution products, which were acquired in the inet
+acquisition, often involve multiple deliverables. we determine the fair value of each of the
+contract deliverables
+
+23
+
+table of contents 
+
+using vendor-specific objective evidence vsoe ). vsoe for each element of the contract is based
+on the price for which we sell the element on a stand-alone basis. in addition to hardware and
+software products, elements of the contracts include product support services such as the
+correction of software problems, hardware replacement, telephone access to our technical personnel
+and the right to receive unspecified product updates, upgrades and enhancements, when and if they
+become available. revenues from these services, including post-contract support included in
+initial licensing fees, are recognized ratably over the service periods. post-contract support
+included in the initial licensing fee is allocated from the total contract amount based on the
+fair value of these services determined using vsoe. if we determine that we do not have vsoe on an
+undelivered element of an arrangement, we will not recognize revenue until all elements of the
+arrangement that do not have vsoe are delivered. this occurrence could materially impact our
+financial results because of the significant dollar amount of many of our contracts and the
+significant portion of total revenues that a single contract may represent in any particular
+period.
+
+revenue earned from service is recognized ratably over the contractual service periods or as
+the services are performed. shipping and handling costs are recorded as cost of sales on the
+condensed consolidated statements of operations. amounts billed or collected in advance of the
+period in which the related product or service qualifies for revenue recognition are recorded as
+deferred revenue on the condensed consolidated balance sheets.
+
+contingencies 
+
+we are subject to claims and litigation concerning intellectual property, environmental and
+employment issues, settlement of contingencies related to prior dispositions of assets, and
+regulatory actions related to customs and export control matters. accruals have been established
+based upon our best estimate of the ultimate outcome of these matters. we review the status of any
+claims, litigation and other contingencies on a regular basis, and adjustments are made as
+additional information becomes available. it is reasonably possible that our estimates of
+contingencies could change in the near term and that such changes could be material to the
+consolidated financial statements.
+
+as of november 26, 2005, 10.1 million of contingencies were recorded in accounts payable and
+accrued liabilities on the condensed consolidated balance sheets, which included 5.0 million of
+contingencies relating to the sale of the color printing and imaging division cpid ), 2.0
+million for environmental exposures and 3.1 million for other contingent liabilities.
+
+as of november 26, 2005 and may 28, 2005, the balance of the contingencies related to the cpid
+disposition was 5.0 million. the remaining portion may take several years to resolve. we
+continue to monitor the status of the cpid related contingencies based on information received.
+
+included in contingent liabilities was 2.0 million specifically associated with the closure
+and cleanup of a licensed hazardous waste management facility at our beaverton, oregon, campus.
+the initial liability was established in 1998, and we base ongoing estimates on currently available
+facts and presently enacted laws and regulations. costs for tank removal and cleanup were incurred
+in fiscal year 2001. costs currently being incurred primarily relate to ongoing monitoring and
+testing of the site. we currently estimate that the range of remaining reasonably possible cost
+associated with this environmental cleanup, testing and monitoring could be as high as 10.0
+million. we believe that the recorded liability represents the low end of a reasonable range of
+estimated liability associated with these environmental issues. these costs are expected to be
+incurred over the next several years. if events or circumstances arise that are unforeseen to us
+as of the balance sheet date, actual costs could differ materially from the recorded liability. in
+addition, a preliminary risk investigation and feasibility study for remediation of the site are
+expected to be completed in the second half of fiscal year 2006 which could have a material impact
+on our estimate.
+
+the remaining 3.1 million of contingency accruals included amounts primarily related to
+intellectual property, employment issues and regulatory matters, as well as contingencies related
+to dispositions of assets other than cpid. if events or circumstances arise that we did not
+foresee as of the balance sheet date, actual costs could differ materially from the above described
+estimates of contingencies.
+
+24
+
+table of contents 
+
+goodwill and intangible assets 
+
+goodwill and intangible assets are accounted for in accordance with statement of financial
+accounting standards sfas no. 141, business combinations, and sfas no. 142, goodwill and
+other intangible assets. accordingly, we do not amortize goodwill and intangible assets with
+indefinite useful lives, but we amortize other acquisition-related intangibles with finite useful
+lives. as of november 26, 2005, the balance of goodwill, net was 302.0 million, which is recorded
+on the condensed consolidated balance sheets.
+
+we performed our annual goodwill impairment analysis during the second quarter of fiscal year
+2006 and identified no impairment. the impairment analysis is based on a discounted cash flow
+approach that uses estimates of future market share and revenues and costs for the reporting units
+as well as appropriate discount rates. the estimates used are consistent with the plans and
+estimates that we use to manage the underlying businesses. however, if we fail to deliver new
+products for these reporting units, if the products fail to gain expected market acceptance, or if
+market conditions in the related businesses are unfavorable, revenue and cost forecasts may not be
+achieved, and we may incur charges for impairment of goodwill.
+
+as of november 26, 2005, we had 99.4 million of non-goodwill intangible assets recorded in
+other long-term assets on the condensed consolidated balance sheets, which included intangible
+assets primarily from the acquisition of inet, acquired patent intangibles and licenses for certain
+technology.
+
+for intangible assets with finite useful lives that are not software-related, we amortize the
+cost over the estimated useful lives and assess any impairment by estimating the future cash flow
+from the associated asset in accordance with sfas no. 144, accounting for the impairment or
+disposal of long-lived assets. if the estimated undiscounted cash flow related to these assets
+decreases in the future or the useful life is shorter than originally estimated, we may incur
+charges to impair these assets. the impairment would be calculated as the difference between the
+carrying value and the fair value of the related intangible asset, based on the estimated
+discounted cash flow associated with each asset. impairment could result if the underlying
+technology fails to gain market acceptance, we fail to deliver new products related to these
+technology assets, the products fail to gain expected market acceptance or if market conditions are
+unfavorable.
+
+for software-related intangible assets with finite useful lives, we amortize the cost over the
+estimated economic life of the software product and assess impairment in accordance with sfas no.
+86, accounting for the costs of computer software to be sold, leased, or otherwise marketed. at
+each balance sheet date, the unamortized cost of the software-related intangible asset is compared
+to its net realizable value. the net realizable value is the estimated future gross revenues from
+the software product reduced by the estimated future costs of completing and disposing of that
+product, including the costs of performing maintenance and customer support. the excess of the
+unamortized cost over the net realizable value would then be recognized as an impairment loss.
+amortization expense for intangible assets that are software-related developed technology is
+recorded as cost of sales on the condensed consolidated statements of operations. see note 5 of
+the notes to condensed consolidated financial statements (unaudited) included in item 1 financial
+statements for additional information on software-related intangible assets acquired from inet.
+
+we do not amortize intangible assets with indefinite useful lives. however, we reevaluate
+this decision each reporting period. if we subsequently determine that a nonamortizable intangible
+asset has a finite useful life, the intangible asset will be written down to the lower of its fair
+value or carrying amount and then amortized over its remaining useful life on a prospective basis.
+we review nonamortizable intangible assets annually for impairment and more frequently if events or
+circumstances indicate that the intangible asset may be impaired. the impairment test includes a
+comparison of the fair value of the nonamortizable intangible asset with its carrying value. an
+impairment loss would be recognized as a charge to continuing operations if the carrying value
+exceeds the fair value of the nonamortizable intangible asset. the balance of nonamortizable
+intangible assets of 11.6 million as of november 26, 2005 resulted primarily from the inet
+acquisition during the second quarter of fiscal year 2005. accordingly, the nonamortizable
+intangible assets were recorded at their fair values and no events or circumstances have arisen
+that would indicate that the intangible assets may be impaired. we performed our annual impairment
+test of nonamortizable intangible assets with our annual goodwill impairment test during the second
+quarter of this fiscal year, and identified no impairment.
+
+25
+
+table of contents 
+
+pension plans 
+
+tektronix offers defined benefit pension plan benefits to employees in certain countries. the
+cash balance pension plan in the united states is our largest defined benefit pension plan.
+employees hired after july 31, 2004 do not participate in the u.s. cash balance pension plan. we
+maintain less significant defined benefit plans in other countries including the united kingdom,
+germany, netherlands and taiwan.
+
+pension plans are a significant cost of doing business and the related obligations are
+expected to be settled far in the future. accounting for defined benefit pension plans results in
+the current recognition of liabilities and net periodic pension cost over employees expected
+service periods based on the terms of the plans and the impact of our investment and funding
+decisions. the measurement of pension obligations and recognition of liabilities and costs require
+significant assumptions. two critical assumptions, the discount rate and the expected long-term
+rate of return on the assets of the plan, have had a significant impact on our financial condition
+and results of operations.
+
+discount rate assumptions are used to measure pension obligations for the recognition of a net
+pension liability on the balance sheet and the service cost and interest cost components of net
+periodic pension cost. we estimate discount rates to reflect the rates at which the pension
+benefits could be effectively settled. in making those estimates, we evaluate rates of return on
+high-quality fixed-income investments currently available and expected to be available during the
+settlement of future pension benefits. the weighted average of discount rates used in determining
+our pension obligation as of may 28, 2005, our most recent fiscal year end, was 5.3 as compared
+with the 6.1 weighted average of discount rates used as of may 29, 2004. the reduction in the
+discount rate created an unrecognized actuarial net loss that contributed to most of the increase
+in the cumulative additional minimum pension charge described below. a discount rate of 5.5 was
+used to determine the projected benefit obligation for the u.s. cash balance pension plan, which is
+our largest obligation. a decrease of 25 basis points in the discount rate as of may 28, 2005
+would increase the projected benefit obligation for the u.s. cash balance pension plan by 11.0
+million and the impact on pension expense would not be significant because the reduction in
+interest cost could be partially offset by an increase in the amortization of unrecognized
+actuarial net loss.
+
+the long-term rate of return on plan assets assumption is applied to the market-related value
+of plan assets to estimate income from return on plan assets. this income from return on plan
+assets offsets the various cost components of net periodic pension cost. the various cost
+components of net periodic pension cost primarily include interest cost on accumulated benefits,
+service cost for benefits earned during the period, and amortization of unrecognized actuarial
+gains and losses. see note 15 of the notes to condensed consolidated financial statements
+(unaudited) included in item 1 financial statements for additional information on the various cost
+components of net periodic pension cost. the amount of net pension expense recognized has
+increased from prior periods due primarily to our beginning to amortize previously unrecognized
+actuarial losses resulting from the decline in the fair value of plan assets and decreases in
+discount rate, decline in the return on plan assets assumption, and reduction in the market-related
+value of plan assets. cumulative income recognized from the long-term rate of return on plan
+assets assumption has differed materially from the actual returns on plan assets. this has
+resulted in a net unrecognized actuarial loss on plan assets that contributed a significant portion
+of the additional minimum pension liability described below. to the extent this unrecognized
+actuarial loss is not offset by future unrecognized actuarial gains, there will continue to be a
+negative impact to net earnings as this amount is amortized as a cost component of net periodic
+pension cost.
+
+our estimated weighted average long-term rate of return on plan assets for all plans for
+fiscal year 2006 is approximately 8.3 . a one percentage point change in the estimated long-term
+rate of return on plan assets would result in a change in operating income of 5.9 million for
+fiscal year 2006.
+
+we measure pension obligations, fair value of plan assets, and the impact of significant
+assumptions at the end of each fiscal year. at may 28, 2005, the accumulated benefit obligation
+exceeded the fair value of plan assets for certain pension plans, resulting in an unfunded
+accumulated benefit obligation for those plans. in accordance with sfas no. 87, employers 
+accounting for pensions, we recognized an additional minimum pension liability due to the unfunded
+accumulated benefit obligation. recognition of an additional minimum liability was required since
+an unfunded accumulated benefit obligation exists and an asset has been recognized as prepaid
+pension cost. since the additional
+
+26
+
+table of contents 
+
+minimum liability exceeded unrecognized prior service cost, the excess (which would represent a net
+loss not yet recognized as net periodic pension cost) has been reported as a component of
+accumulated other comprehensive loss, net of applicable income tax benefit.
+
+as of may 28, 2005, the cumulative additional minimum pension charge included in accumulated
+other comprehensive loss was 198.4 million, net of income tax benefit of 123.7 million. during
+fiscal year 2005, the cumulative additional minimum pension charge increased by 24.7 million, net
+of income tax benefit of 15.7 million, largely due to the change in the discount rate described
+above. the implication of the additional minimum pension liability is that it increases the
+unrecognized actuarial net loss which when amortized will increase future net periodic benefit
+costs. in addition we may find it necessary to fund additional pension assets to offset the
+increased liability, which would increase the market related value of plan assets upon which we
+recognize a return but would reduce operating cash and future interest earnings on that cash. in
+the first and second quarters of fiscal year 2006, we made voluntary contributions of 33.4 million
+and 5.0 million, respectively, to the u.s. cash balance pension plan. depending on the future
+market performance of the pension plan assets, we may make additional cash contributions to the
+plan.
+
+we continue to assess assumptions for the expected long-term rate of return on plan assets and
+discount rate based on relevant market conditions as prescribed by accounting principles generally
+accepted in the united states of america and make adjustments to the assumptions as appropriate.
+net periodic benefit cost was 3.7 million and 7.3 million in the second quarter and first two
+quarters of fiscal year 2006, respectively, which included the effect of the recognition of service
+cost, interest cost, the assumed return on plan assets and amortization of a portion of the
+unrecognized actuarial loss noted above. net periodic benefit cost was allocated to cost of sales,
+research and development and selling, general and administrative expenses on the condensed
+consolidated statements of operations.
+
+income taxes 
+
+we are subject to taxation from federal, state and international jurisdictions. our annual
+provision for income taxes and the determination of the resulting deferred tax assets and
+liabilities involve a significant amount of judgment and are based on the best information
+available at the time. the actual income tax liabilities to the jurisdictions with respect to any
+fiscal year are ultimately determined long after the financial statements have been published. we
+maintain reserves for estimated tax exposures in jurisdictions of operation. these tax
+jurisdictions include federal, state and various international tax jurisdictions. significant
+income tax exposures include potential challenges of research and experimentation credits,
+export-related tax benefits, disposition transactions and intercompany pricing. exposures are
+settled primarily through the completion of audits within these tax jurisdictions, but can also be
+affected by changes in applicable tax law or other factors, which could cause us to believe a
+revision of past estimates is appropriate. we believe that an appropriate liability has been
+established for estimated exposures; however, actual results may differ materially from these
+estimates. the liabilities are reviewed quarterly for their adequacy and appropriateness.
+
+in the second quarter of fiscal year 2006, legislation was enacted that will lower tektronix 
+future effective state income tax rate beginning in fiscal year 2007. as required under sfas no. 109,
+ accounting for income taxes, the value of state deferred taxes was remeasured under the new law
+resulting in a one-time charge to income tax expense of 2.4 million.
+
+the liabilities associated with the open years subject to income tax audits will ultimately be
+resolved when events such as the completion of audits by the taxing jurisdictions occur. to the
+extent the audits or other events result in a material adjustment to the accrued estimates, the
+effect would be recognized in income tax expense on the condensed consolidated statements of
+operations in the period of the event. we believe that an appropriate liability has been
+established for estimated exposures; however, actual results may differ materially from these
+estimates.
+
+judgment is also applied in determining whether deferred tax assets will be realized in full
+or in part. when it is more likely than not that all or some portion of specific deferred tax
+assets such as foreign tax credit carryovers or net operating loss carryforwards will not be
+realized, a valuation allowance must be established for the amount of the deferred tax assets that
+are determined not to be realizable. as of november 26, 2005, we maintained a valuation allowance
+against certain deferred tax assets, primarily foreign tax credit carryforwards. we have not
+established valuation allowances against other deferred tax assets based on tax strategies planned
+to mitigate the risk of impairment to these assets. accordingly, if our facts or financial results
+were to change thereby impacting the likelihood of realizing
+
+27
+
+table of contents 
+
+the deferred tax assets, judgment would have to be applied to determine if changes to the amount of
+the valuation allowance are necessary in any given period. we continually evaluate strategies that
+could allow the future utilization of our deferred tax assets. in the second quarter of fiscal
+year 2006, we determined that it was more likely than not that the remaining foreign tax credit
+carryforwards would be fully utilized during the year. accordingly, the reduction in the valuation allowance of
+ 5.4 million on these foreign tax credit carryforwards has been factored into our estimate of the lower
+effective tax rate for the fiscal year.
+
+results of operations 
+
+fiscal quarter ended 
+
+two fiscal quarters ended 
+
+nov. 26, 
+
+nov. 27, 
+
+nov. 26, 
+
+nov. 27, 
+
+(in millions, except per share amounts) 
+ 
+ 2005 
+
+2004 
+
+change 
+
+2005 
+
+2004 
+
+change 
+
+product orders
+
+240.8 
+
+235.6 
+
+2 
+
+471.2 
+
+439.9 
+
+7 
+
+net sales
+
+253.4 
+
+266.8 
+
+(5) 
+
+488.5 
+
+517.3 
+
+(6) 
+
+cost of sales
+
+101.2 
+
+106.5 
+
+(5) 
+
+200.3 
+
+208.5 
+
+(4) 
+
+gross profit
+
+152.2 
+
+160.3 
+
+(5) 
+
+288.2 
+
+308.8 
+
+(7) 
+
+gross margin
+
+60.1 
+
+60.1 
+
+59.0 
+
+59.7 
+
+research and development expenses
+
+45.7 
+
+41.9 
+
+9 
+
+89.3 
+
+75.5 
+
+18 
+
+selling, general and administrative
+expenses
+
+73.1 
+
+76.3 
+
+(4) 
+
+141.7 
+
+141.4 
+
+0 
+
+acquisition related costs and
+amortization
+
+2.1 
+
+34.9 
+
+(94) 
+
+5.5 
+
+35.7 
+
+(85) 
+
+business realignment costs
+
+1.9 
+
+0.2 
+
+100 
+
+4.4 
+
+2.2 
+
+91 
+
+loss (gain) on disposition of assets,
+net
+
+0.1 
+
+(60) 
+
+(1.8) 
+
+operating income
+
+29.4 
+
+6.9 
+
+100 
+
+47.3 
+
+55.8 
+
+(15) 
+
+interest income
+
+2.9 
+
+3.9 
+
+(26) 
+
+6.0 
+
+9.4 
+
+(36) 
+
+interest expense
+
+(0.1) 
+
+(0.3) 
+
+(56) 
+
+(0.2) 
+
+(0.4) 
+
+(42) 
+
+other non-operating expense, net
+
+(2.0) 
+
+(1.1) 
+
+87 
+
+(3.0) 
+
+(3.3) 
+
+(9) 
+
+earnings before taxes
+
+30.2 
+
+9.4 
+
+100 
+
+50.1 
+
+61.5 
+
+(19) 
+
+income tax expense
+
+10.3 
+
+12.0 
+
+(14) 
+
+16.1 
+
+27.6 
+
+(42) 
+
+net earnings (loss) from continuing
+operations
+
+19.9 
+
+(2.6) 
+
+34.0 
+
+33.9 
+
+0 
+
+gain (loss) from discontinued
+operations, net of income
+taxes
+
+(0.2) 
+
+(0.3) 
+
+net earnings (loss)
+
+19.9 
+
+(2.8) 
+
+34.0 
+
+33.6 
+
+1 
+
+earnings (loss) per share:
+
+continuing
+operations basic
+
+0.24 
+
+(0.03) 
+
+0.41 
+
+0.40 
+
+3 
+
+continuing
+operations diluted
+
+0.24 
+
+(0.03) 
+
+0.40 
+
+0.39 
+
+3 
+
+discontinued
+operations basic and
+diluted
+
+net earnings
+(loss) basic
+
+0.24 
+
+(0.03) 
+
+0.41 
+
+0.39 
+
+5 
+
+net earnings
+(loss) diluted
+
+0.24 
+
+(0.03) 
+
+0.40 
+
+0.39 
+
+3 
+
+not meaningful
+
+28
+
+table of contents 
+
+second quarter and first two quarters of fiscal year 2006 compared to the second quarter and
+first two quarters of fiscal year 2005 
+
+economic conditions 
+
+during fiscal year 2004, we experienced a phased recovery of our end markets that began at the
+end of the prior fiscal year, with growth increasing across all regions and most product lines
+throughout the year. we also saw market share gains in most of our product categories during
+calendar year 2004.
+
+we saw growth in demand broadly across our business in the first three quarters of fiscal year
+2005. in the fourth quarter of fiscal year 2005, we experienced some softening in our end markets.
+our order growth rate declined across most of our product categories and we did not experience the
+normal increase in orders associated with our fourth quarter of fiscal year 2005. in the first
+quarter of fiscal year 2006, order results were mixed, with growth in some product categories and
+regions and decline in others. toward the end of the first quarter of fiscal year 2006, we began
+to see some improvement in our markets that continued into the second quarter of fiscal year 2006.
+
+in the second quarter of fiscal year 2006, orders grew modestly on a year-over-year basis and
+on a sequential basis. the year-over-year growth was driven primarily by the acquisition of inet.
+in the second quarter of fiscal year 2006 we recorded three months of inet orders versus two months
+of inet orders in the second quarter of the prior fiscal year. in the remainder of the business we
+had year-over-year growth in some product areas, but others were flat or declined. although
+business levels improved during the second quarter of fiscal year 2006 as compared with the first
+quarter of fiscal year 2006, there can be no assurance that our underlying markets will improve or
+that levels of business activity will continue as a trend into the future. macroeconomic factors,
+such as volatility in energy prices and rising interest rates could have a negative impact on the
+economy overall and therefore on our business.
+
+the exchange rate for the u.s. dollar against major currencies resulted in a minimal impact to
+orders and sales for the second quarter and first two quarters of fiscal year 2006 as compared with
+the same periods last fiscal year. the direction of currency fluctuations in the future, and the
+resulting impact on orders and sales, cannot be predicted.
+
+acquisition of inet technologies, inc. 
+
+we completed the acquisition of inet on september 30, 2004 which was during our fiscal year
+2005 second quarter. accordingly, the results of operations included two months of activity from
+this business for the second quarter of fiscal year 2005 and three months of activities for the
+same quarter of fiscal year 2006. as there is no inet related activity in the first quarter of the
+prior fiscal year as compared with the same period of fiscal year 2006, an understanding of the
+impact from the acquisition of inet is an important component to understanding the current fiscal
+year results of operations. in our description of the results of operations that follow, we will
+quantify the impact of the inet acquisition where meaningful.
+
+discontinuation of rohde and schwarz distribution agreement 
+
+on june 1, 2004, we discontinued our distribution agreement with rohde and schwarz r s ),
+under which tektronix had served as the exclusive distributor for r s communication test products
+in the united states and canada since 1993. substantially all product backlog related to r s
+distributed product was shipped and recognized as revenue during the first quarter of fiscal year
+2005. accordingly, we have not derived significant revenue from the shipment of r s products since
+the first quarter of fiscal year 2005. however, the activity in the first quarter of fiscal year
+2005 is important to understand the comparison of the first two quarters of current fiscal year
+results to the prior fiscal year. in our discussion of the results of operations, we will quantify
+the impact where meaningful.
+
+29
+
+table of contents 
+
+product orders 
+
+the following table is presented to quantify the impact on product orders from the acquisition
+of inet and the discontinuation of the r s distribution agreement.
+
+fiscal quarter ended 
+
+two fiscal quarters ended 
+
+nov. 26, 
+
+nov. 27, 
+
+nov. 26, 
+
+nov. 27, 
+
+(in millions) 
+ 
+ 2005 
+
+2004 
+
+change 
+
+2005 
+
+2004 
+
+change 
+
+consolidated product orders:
+
+tektronix products
+
+212.9 
+
+213.9 
+
+0 
+
+398.5 
+
+418.2 
+
+(5) 
+
+inet products
+
+27.9 
+
+21.6 
+
+29 
+
+72.7 
+
+21.6 
+
+100 
+
+r s distributed products
+
+0.1 
+
+(100) 
+
+0.1 
+
+(100) 
+
+total product orders
+
+240.8 
+
+235.6 
+
+2 
+
+471.2 
+
+439.9 
+
+7 
+
+orders for products other than our network management monitoring solutions consist of
+cancelable commitments to purchase currently produced products by customers with delivery
+scheduled generally within six months of being recorded. orders for our network management
+monitoring solution products may be delivered over a period longer than six months. prior to fiscal
+year 2006, orders were comprised of product orders, and therefore excluded orders for service and
+maintenance. beginning in the first quarter of fiscal year 2006, we included service renewal
+orders for our network management products in our reported orders. accordingly, prior fiscal year
+comparative periods have been adjusted to reflect orders under this same definition. the majority
+of our network management service contracts have contract periods of one year. revenue for these
+orders is recognized ratably over the contract period. any unrecognized portion of these orders
+is included as a component of order backlog. the unrecognized portion of service contracts is
+included in deferred revenue on the condensed consolidated balance sheets.
+
+during the second quarter of fiscal year 2006, product orders increased by 5.2 million, or
+2 , from the same quarter last fiscal year. the increase in product orders was largely
+attributable to the effect of three months of inet orders in the second quarter of the current
+fiscal year but only two months of inet orders in the same quarter of the prior fiscal year.
+overall, communications product orders increased 12 in the second quarter of fiscal year 2006 as
+compared with the same quarter in the prior fiscal year. this was driven by the impact of inet as
+well as continued strength in the telecom sector. orders for our video products increased 18 in
+the second quarter of fiscal year 2006 as compared with the second quarter of fiscal year 2005.
+this was driven by new products as well as customer investments in high-definition and other
+digital technologies. orders for our general purpose products declined 3 in the second quarter
+of fiscal year 2006 as compared with the same quarter last fiscal year. this decline reflected the impact of large order timing in the second quarter of the prior fiscal
+year, and the possible impact of competition on some product areas in the current fiscal year,
+partially offset by strengthening business levels and strong customer response to new products.
+
+during the first two quarters of fiscal year 2006, product orders increased by 31.3 million,
+or 7 , from the same period last fiscal year. the increase in product orders was attributable to
+the acquisition of inet in the second quarter of fiscal year 2005. for the first two quarters of
+fiscal year 2006, we recorded six months of inet product orders but only two months of inet
+product orders in the first two quarters of fiscal year 2005. as a result, overall communications
+product orders increased 68 in the first two quarters of fiscal year 2006 as compared with the
+same period in the prior fiscal year. for the same periods of time, video product orders
+increased 8 and general purpose product orders declined 7 . as mentioned in economic conditions
+above, we began to see some improvement in our markets at the end of the first quarter of the
+current fiscal year that continued into the second quarter. both video products and general
+purpose products orders increased in the second quarter of the current fiscal year relative to the
+first quarter of the current fiscal year. communications products orders declined in the second quarter of
+the current fiscal year relative to the first quarter of the current fiscal year due to the timing of large
+orders which are a significant component of communications orders.
+
+30
+
+table of contents 
+
+the following table presents total product orders by region:
+
+fiscal quarter ended 
+
+two fiscal quarters ended 
+
+nov. 26, 
+
+nov. 27, 
+
+nov. 26, 
+
+nov. 27, 
+
+(in millions) 
+ 
+ 2005 
+
+2004 
+
+change 
+
+2005 
+
+2004 
+
+change 
+
+consolidated product orders by region:
+
+the americas:
+
+united states
+
+85.2 
+
+85.4 
+
+0 
+
+161.6 
+
+149.8 
+
+8 
+
+other americas
+
+6.2 
+
+7.2 
+
+(14) 
+
+10.4 
+
+11.4 
+
+(9) 
+
+europe
+
+65.0 
+
+58.4 
+
+11 
+
+132.9 
+
+99.9 
+
+33 
+
+pacific
+
+48.8 
+
+47.8 
+
+2 
+
+90.0 
+
+93.9 
+
+(4) 
+
+japan
+
+35.6 
+
+36.8 
+
+(3) 
+
+76.3 
+
+84.9 
+
+(10) 
+
+total product orders
+
+240.8 
+
+235.6 
+
+2 
+
+471.2 
+
+439.9 
+
+7 
+
+product orders, excluding inet and r s
+
+212.9 
+
+213.9 
+
+0 
+
+398.5 
+
+418.2 
+
+(5) 
+
+geographically, product orders increased by 4 internationally in the second quarter of
+fiscal year 2006 as compared with the same quarter last fiscal year but were flat in the united
+states. during the first two quarters of fiscal year 2006, product orders increased by 8 in the
+united states and by 7 internationally as compared with the same period last fiscal year.
+
+for the second quarter of fiscal year 2006, orders were flat in the united states. for the
+first two quarters of fiscal year 2006, orders grew in the united states, largely due to the
+acquisition of inet. we experienced growth in europe during both the second quarter and first two
+quarters of fiscal year 2006. growth in europe was primarily attributable to the acquisition of
+inet, which has significant large customers in that region. in the second quarter of fiscal year
+2006, europe orders also included a 0.9 million unfavorable impact from fluctuations in the
+foreign exchange rate of the euro against the us dollar. results in the pacific region were
+mixed, with growth in the second quarter, but decline for the first two quarters of this fiscal
+year. the decline in the first two quarters was related to the market softening we experienced at
+the end of last fiscal year that continued into the first quarter of this fiscal year. product
+orders declined in japan in the second quarter of fiscal year 2006 as compared with the second
+quarter of fiscal year 2005 and for the first two quarters of fiscal year 2006 as compared with
+the same period last fiscal year. the decrease in japan in the second quarter of fiscal year 2006
+was attributable to a 1.3 million unfavorable impact of fluctuations in the foreign exchange rate
+of the yen against the us dollar, plus mixed results in the product areas, with some growing and
+some declining. japan orders declined in the first two quarters of fiscal year 2006 due to the
+currency impact in the second quarter and a difficult comparison to first quarter orders last
+fiscal year, when we saw strength in consumer electronics and semiconductor orders.
+
+the unfavorable impact of foreign currency exchange rates for the second quarter and for the
+first two quarters was insignificant overall. as noted above, the unfavorable impact was mostly
+due to currency fluctuation in europe and japan.
+
+31
+
+table of contents 
+
+net sales 
+
+the following table is presented to quantify the impact on net sales from the acquisition of
+inet and the discontinuation of the r s distribution agreement.
+
+fiscal quarter ended 
+
+two fiscal quarters ended 
+
+nov. 26, 
+
+nov. 27, 
+
+nov. 26, 
+
+nov. 27, 
+
+(in millions) 
+ 
+ 2005 
+
+2004 
+
+change 
+
+2005 
+
+2004 
+
+change 
+
+consolidated net sales:
+
+tektronix net sales
+
+218.0 
+
+244.3 
+
+(11) 
+
+421.2 
+
+473.6 
+
+(11) 
+
+inet net sales
+
+35.4 
+
+20.7 
+
+71 
+
+67.3 
+
+20.7 
+
+100 
+
+r s distributed products sales
+
+1.8 
+
+(100) 
+
+23.0 
+
+(100) 
+
+total net sales
+
+253.4 
+
+266.8 
+
+(5) 
+
+488.5 
+
+517.3 
+
+(6) 
+
+changes
+in net sales are impacted by changes in product orders and changes in product
+backlog levels, as well as currency fluctuations and other adjustments that impact the timing of
+revenue recognition. in addition to product sales, net sales also include service revenues and
+sales from maxtek, our wholly-owned components manufacturing subsidiary that produces components
+for third party customers as well as tektronix.
+
+in the second quarter of the current fiscal year, net sales declined 13.4 million as compared
+with the same quarter in the prior fiscal year. the sales decline was largely driven by greater
+backlog reduction in the second quarter of the prior fiscal year relative to the second quarter of
+the current fiscal year.
+
+in the first two quarters of the current fiscal year, sales declined by 28.8 million due to a
+significant backlog reduction in the prior fiscal year as compared with a backlog increase in the
+current fiscal year. the significant backlog reduction in the prior fiscal year was due in part to
+the final shipment of all remaining r s backlog.
+
+gross profit and gross margin 
+
+gross profit for the second quarter of fiscal year 2006 was 152.2 million, a decrease of 8.1
+million or 5 , from gross profit of 160.3 million for the same quarter last fiscal year. for the
+first two quarters of fiscal year 2006, gross profit was 288.2 million, a decrease of 20.6
+million, or 7 , from gross profit of 308.8 million for the same period last fiscal year. the
+decrease in gross profit for the second quarter and for the first two quarters of fiscal year 2006
+was primarily attributable to the decrease in sales volume described above.
+
+gross margin is the measure of gross profit as a percentage of net sales. gross margin is
+affected by a variety of factors including, among other items, sales volumes, mix of product
+shipments, product pricing, inventory impairments and other costs such as warranty repair and
+sustaining engineering. gross margin for the second quarter of fiscal year 2006 and the second
+quarter of last fiscal year was 60.1 . gross margin for the first two quarters of fiscal year 2006
+was 59.0 , a decrease of 0.7 points versus gross margin of 59.7 in the same period last fiscal
+year.
+
+gross margin in the second quarter of fiscal year 2006 was flat relative to the same quarter
+in the prior fiscal year. the second quarter of the current fiscal year and the prior fiscal year
+were both impacted by the amortization of intangible assets related to the inet acquisition. lower
+sales volumes and a slightly negative impact of currency in the current fiscal year were offset by
+the mix of products sold as well as lower incentive expenses.
+
+the decrease in gross margin for the first two quarters of the current fiscal year was
+attributable to amortization of intangible assets related to the inet acquisition and lower sales
+volumes, partially offset by better product mix, with higher-margin inet sales replacing
+lower-margin r s sales. in the first two quarters of the current fiscal year, we recognized six
+months of amortization of intangible assets as compared with only two months of amortization of
+intangible assets in the same period of the prior fiscal year. for additional information on the
+amortization of intangibles see the acquisition of inet technologies, inc. section above in this
+management s discussion and analysis.
+
+32
+
+table of contents 
+
+operating expenses 
+
+operating expenses include research and development expenses, selling, general and
+administrative expenses, business realignment costs, acquisition related costs and amortization and
+loss (gain) on disposition of assets, net. each of these categories of operating expenses is
+discussed further below. it should be noted that although a portion of operating expenses is
+variable and will fluctuate with operating levels, many costs are fixed in nature and are subject
+to increase due to inflation and annual labor cost increases. additionally, we must continue to
+invest in the development of new products and the infrastructure to market and sell those products
+even during periods where operating results reflect only nominal growth, are flat or declining.
+accordingly, as we make cost reductions in response to changes in business levels or other specific
+business events, these reductions can be partially or wholly offset by these other increases to the
+fixed cost structure.
+
+changes in operating expenses on a year-over-year basis are impacted by the addition of inet
+expenses beginning in the second quarter of fiscal year 2005. the second quarter of fiscal year
+2006 included three months of inet expenses, while the second quarter of fiscal year 2005 included
+only two months of inet expenses. for the first two quarters, fiscal year 2006 included six months
+of inet expenses while fiscal year 2005 included only two months of inet expenses.
+
+research and development r d expenses are incurred for the design and testing of new
+products, technologies and processes, including pre-production prototypes, models and tools. such
+costs include labor and employee benefits, contract services, materials, equipment and facilities.
+r d expenses increased 3.8 million, or 9 , during the second quarter of fiscal year 2006 as
+compared with the same quarter last fiscal year, and increased by 13.8 million, or 18 during the
+first two quarters of fiscal year 2006 as compared with the same period last fiscal year.
+
+the increase of 3.8 million in the second quarter of fiscal year 2006 was due to the addition
+of the inet business as compared with the same quarter of last fiscal year. excluding the impact
+of the inet acquisition, r d expenses decreased by 0.8 million primarily attributable to lower
+discretionary expenses.
+
+during the first two quarters of the current fiscal year, r d expenses increased by 13.8
+million. excluding inet, r d expenses were flat for the first two quarters of the current fiscal
+year as compared with the same period in the prior fiscal year.
+
+we continuously invest in the development of new products and technologies, and the timing of
+these costs varies depending on the stage of the development process. at times, we may focus
+certain engineering resources on the maintenance of the current product portfolio (sustaining
+engineering), which is expensed in cost of goods sold on the condensed consolidated statements of
+operations. our use of engineering resources between r d and sustaining engineering can fluctuate.
+additionally, expenses for materials and prototypes can fluctuate as a result of the varying
+stages of product development.
+
+selling, general and administrative sg a expenses decreased 3.2 million, or 4 in the
+current quarter as compared with the same quarter last fiscal year, and increased by 0.3 million
+during the first two quarters of fiscal year 2006 as compared with the same period last fiscal
+year. excluding the impact of inet, the decrease in sg a expenses was 5.9 million in the second
+quarter of fiscal year 2006. the decrease of 5.9 million was attributable to lower labor expense,
+lower expenses associated with sarbanes-oxley compliance, lower litigation expense, and reduced
+discretionary spending.
+
+excluding the impact of inet for the first two quarters of fiscal year 2006, sg a expenses
+decreased by 9.6 million. the decrease was attributable to lower labor expense, lower expenses
+associated with sarbanes-oxley compliance, lower litigation expense, and reduced discretionary
+spending.
+
+acquisition related costs and amortization are incurred as a direct result of the integration
+of acquisitions. the acquisition related costs of 2.1 million for the second quarter
+of fiscal year 2006 primarily related to the acquisition of inet in the prior fiscal year. these
+costs included 1.3 million for amortization of intangible assets and 0.8 million for transition
+expenses. in the second quarter of the prior fiscal year, acquisition related costs and
+amortization of 34.9 million was primarily attributable to the acquisition of inet, which was
+completed on september 30, 2004. the most significant of those costs was the 32.2 million
+write-off of ipr d in the second quarter of last fiscal year. other costs
+
+33
+
+table of contents 
+
+included 0.8 million for amortization of intangible assets, 0.2 million for amortization of
+unearned stock-based compensation from the inet acquisition and 1.7 million of transition
+expenses.
+
+for
+the first two quarters of fiscal year 2006, acquisition related costs and amortization of
+ 5.5 million included 2.6 million for amortization of intangible assets, 2.5 million of
+transition expenses, and 0.4 million for the write-off of other ipr d. for the two quarters of
+the prior fiscal year, acquisition related costs and amortization was 35.7 million. as noted
+above, the most significant of these costs was the 32.2 million write-off of ipr d in the second
+quarter of last fiscal year. other costs included 0.8 million for amortization of intangible
+assets, 0.2 million for amortization of unearned stock-based compensation from the inet
+acquisition and 2.5 million of transition expenses.
+
+business realignment costs represent actions to realign our cost structure in response to
+significant changes in operating levels or a significant acquisition or divestiture. during the
+second quarter of fiscal year 2006 we incurred business realignment costs of 1.9 million, an
+increase from expense of 0.2 million in the same quarter last fiscal year. during the first two
+quarters of fiscal year 2006 we incurred business realignment costs of 4.4 million, an increase
+from expense of 2.3 million in the same period last fiscal year. increases in business
+realignment costs in the current fiscal year are attributable to actions taken in response to
+softening in orders in the last part of fiscal year 2005 and the beginning of the first quarter of
+fiscal year 2006. business realignment costs incurred in fiscal year 2005 were associated with the
+realignment of our cost structure in response to the dramatic economic decline experienced in the
+technology sector beginning during fiscal years 2001, and continuing into fiscal year 2003, as well
+as restructuring costs associated with the redemption of sony/tektronix. for a full description of
+the components of business realignment costs please refer to the business realignment costs section
+above in this management s discussion and analysis and note 7 of notes to condensed consolidated
+financial statements (unaudited) of item 1 financial statements.
+
+the loss (gain) on disposition of assets, net was insignificant for the second quarter and the
+first two quarters of fiscal year 2006. the loss (gain) on disposition of assets, net during the
+first two quarters of last fiscal year was primarily due to gain on the sale of property located in
+nevada city, california in the first quarter. net proceeds of 9.9 million were received from the
+sale of the nevada city assets with a carrying value of 7.7 million, resulting in a gain on sale
+of 2.2 million. this gain was partially offset by losses and impairments incurred in the ordinary
+course of business.
+
+non-operating income / expense 
+
+interest income during the second quarter and first two quarters of fiscal year 2006 decreased
+ 1.0 million and 3.4 million, respectively, as compared with the same periods last fiscal year.
+the decrease in interest income was due to a lower average balance of cash and investments
+resulting from our use of cash for planned pension funding, the repurchase of tektronix common
+stock and the payout of incentives accrued in the prior fiscal year, as well as lower yields on
+invested cash.
+
+interest expense during the second quarter and first two quarters of fiscal year 2006 was
+insignificant and did not change significantly as compared with the same quarter last fiscal year.
+
+other non-operating expense, net in the amount of 2.0 million in the second quarter of fiscal
+year 2006 increased by 0.9 million as compared with the same quarter of last fiscal year. the
+increase in expense was largely attributable to currency losses versus currency gains in the prior
+fiscal year, partially offset by lower litigation expenses. for the first two quarters of fiscal
+year 2006, other non-operating expense, net was 3.0 million as compared with 3.3 million in the
+same periods during the prior fiscal year.
+
+income taxes 
+
+income tax expense for the second quarter and first two quarters of fiscal year 2006 was 10.3
+million and 16.0 million, respectively. the effective tax rates on earnings before taxes from
+continuing operations for the second quarter and first two quarters of fiscal year 2006 were 34.2 
+and 32.0 , respectively.
+
+the effective tax rate is impacted by a variety of estimates, including the amount of income
+expected during the remainder of fiscal year 2006, the mix of that income between foreign and
+domestic sources, and expected utilization of tax credits which have a full valuation allowance.
+in addition, the tax rate in the second quarter of fiscal year 2006 included a one-time charge to
+income tax expense of 2.4 million resulting from the remeasurement of deferred tax assets due to a
+reduction in our state income tax rate. also, the impact of purchase accounting adjustments from
+the inet
+
+34
+
+table of contents 
+
+acquisition, such as the amortization of acquisition related items and non-cash expense for the
+inventory step up to fair value, were tax effected at the statutory rate. this was partially
+offset by the expected utilization of tax credits and reversal of the associated valuation
+allowance.
+
+in the second quarter of fiscal year 2005, income tax expense exceeded taxable income because
+there was no tax benefit recognized for the 32.2 million write-off of ipr d from the inet
+acquisition. in addition, the impact of purchase accounting adjustments from the inet acquisition,
+such as the amortization of acquisition related items and non-cash expense for the inventory step
+up to fair value, were tax effected at the statutory rate. excluding the impact of the write-off
+of ipr d and purchase accounting adjustments, the effective tax rate for the second quarter and
+first two quarters of the prior fiscal year was 30 .
+
+discontinued operations 
+
+gain (loss) from discontinued operations was insignificant in the second quarter of the
+current and prior fiscal years and for the first two quarters of both fiscal years.
+
+net earnings 
+
+for the second quarter of fiscal year 2006, we recognized net earnings of 19.9 million, an
+increase of 22.7 million from a net loss of 2.8 million for the same quarter last fiscal year.
+for the first two quarters of fiscal year 2006, we recognized consolidated net earnings of 34.0
+million, an increase of 0.4 million from net earnings of 33.6 million for the first two quarters
+of the same period last fiscal year. the increase in the second quarter of fiscal year 2006 is
+largely due to the significant write-off of ipr d in the prior fiscal year which decreased net
+earnings by 32.2 million, offset by lower sales volume in the second quarter of the current fiscal
+year. for the first two quarters of fiscal year 2006, the small increase in net earnings was also
+due to the write-off of ipr d which reduced net earnings in the same period of the prior fiscal
+year, offset by lower sales and interest income in the current fiscal year as well as higher
+research and development expense associated with the acquisition of inet.
+
+earnings per share 
+
+for the second quarter, the increase in earnings per share was a result of the increased net
+earnings discussed above, and to a lesser extent, due to decreased weighted average shares
+outstanding in the current fiscal year. lower average shares outstanding were a result of
+repurchases of shares in the open market, partially offset by the issuance of shares to acquire
+inet.
+
+35
+
+table of contents 
+
+financial condition, liquidity and capital resources 
+
+sources and uses of cash 
+
+cash flows. the following table is a summary of our condensed consolidated statements of cash
+flows:
+
+two fiscal quarters ended 
+
+(in thousands) 
+ 
+ nov. 26, 2005 
+
+nov. 27, 2004 
+
+cash provided by (used in):
+
+operating activities
+
+11,580 
+
+36,625 
+
+investing activities
+
+91,103 
+
+51,953 
+
+financing activities
+
+(95,420) 
+
+(89,510) 
+
+operating activities. cash provided by operating activities of 11.6 million for the first
+two quarters of fiscal year 2006 decreased by 25.0 million as compared with the same period last
+fiscal year. the impact of lower net sales and gross profit and higher r d expense in the first
+two quarters of fiscal year 2006 was partially offset by lower cash payments of 38.4 million for
+cash contributions to the u.s. cash balance pension plan and 25.0 million for annual incentive
+compensation payouts accrued during fiscal year 2005, as compared with payments in the first
+quarter of fiscal year 2005 of 46.5 million for a cash contribution to the u.s. cash balance
+pension plan and 29.8 million for annual incentive compensation accrued during fiscal year 2004.
+other adjustments to reconcile net earnings to net cash provided by operating activities are
+presented on the condensed consolidated statements of cash flows.
+
+as noted above, we have made cash contributions totaling 38.4 million to the u.s. cash
+balance pension plan in the first two quarters of fiscal year 2006. this funding reduced long-term
+liabilities on the condensed consolidated balance sheets. depending on the future market
+performance of the pension plan assets, we may make additional cash contributions to the plan.
+
+investing activities . cash provided by investing activities of 91.1 million for the first
+two quarters of fiscal year 2006 increased by 39.2 million as compared with the same period last
+fiscal year. the increase in net cash inflow provided by investing activities was largely
+attributable to much lower spending on acquisitions in fiscal year 2006, 8.4 million, as compared
+with the prior fiscal year, when we spent 93.9 million for the inet acquisition in the second
+quarter of fiscal year 2005. in addition, we spent 50.9 million on purchases of marketable
+investments in fiscal year 2005, but we did not purchase marketable investments in fiscal year
+2006. the impact of lower acquisition spending and lower spending on marketable investments in
+fiscal year 2006 was partially offset by lower proceeds from maturities and sales of marketable
+investments of 117.5 million in fiscal year 2006 compared with 198.7 million in fiscal year 2005.
+
+we spent 18.6 million for capital expenditures and realized 0.5 million of proceeds on sales
+of fixed assets in the first two quarters of the current fiscal year as compared with capital
+expenditures of 14.5 million and 12.6 million in proceeds from the disposition of fixed assets in
+the same periods of last fiscal year. sales of fixed assets in the first two quarters of fiscal
+year 2005 included proceeds of 9.9 million from the sale of the nevada city, california property
+in the first quarter, and a 1.9 million deposit related to the sale of the gotemba, japan property
+in the second quarter.
+
+financing activities. cash used in financing activities of 95.4 million for the first two
+quarters of fiscal year 2006 increased 5.9 million as compared with the same period last fiscal
+year. during the first two quarters of fiscal year 2006, we paid 96.0 million to repurchase 4.0
+million shares of tektronix common stock at an average price of 24.05 per share. during the first
+two quarters of fiscal year 2005, we paid 95.3 million to repurchase 3.2 million shares of
+tektronix common stock at an average price of 29.35 per share. these repurchases of tektronix
+common stock were made under authorizations totaling 950.0 million approved by the board of
+directors. these authorizations to purchase common stock in the open market or through negotiated
+transactions comprised 550.0 million in fiscal year 2000 and 400.0 million in fiscal year 2005.
+as of november 26, 2005, we had repurchased a total of 29.0 million shares at an average price of
+ 23.94 per share totaling 693.2 million under these authorizations. the reacquired shares were
+immediately retired, in accordance with oregon corporate law.
+
+36
+
+table of contents 
+
+we paid dividends of 10.1 million to shareholders in the first two quarters of fiscal year
+2006, as compared with 8.8 million in the same period last fiscal year. the quarterly dividend
+declaration and payment was 0.06 per common share for the first and second quarters of fiscal year
+2006 as compared with 0.04 and 0.06 per common share for the first and second quarters of last
+fiscal year, respectively.
+
+subsequent to the second quarter of fiscal year 2006, on december 15, 2005, tektronix declared
+a quarterly cash dividend of 0.06 per share for the third quarter of fiscal year 2006. the
+dividend is payable on january 23, 2006 to shareholders of record at the close of business on
+january 6, 2006. tektronix may or may not pay dividends in the future and, if dividends are paid,
+tektronix may pay more or less than 0.06 per share per quarter.
+
+these cash outflows were partially offset by proceeds from employee stock plans of 10.4
+million in the first two quarters of fiscal year 2006, a decrease from proceeds of 14.8 million in
+the same period last fiscal year. the decrease in proceeds from employee stock plans was largely
+due to decreased option exercise activity in the first two quarters of fiscal year 2006 as compared
+with the same period last fiscal year.
+
+at november 26, 2005, we maintained unsecured bank credit facilities totaling 35.5 million,
+of which 32.0 million was unused.
+
+cash on hand, cash flows from operating activities and current borrowing capacity are expected
+to be sufficient to fund operations, acquisitions, capital expenditures and contractual obligations
+for the next twelve months.
+
+working capital 
+
+the following table summarizes working capital as of november 26, 2005 and may 28, 2005:
+
+(in thousands) 
+ 
+ nov. 26, 2005 
+
+may 28, 2005 
+
+current assets:
+
+cash and cash equivalents
+
+136,015 
+
+131,640 
+
+short-term marketable investments
+
+96,808 
+
+120,881 
+
+trade accounts receivable, net of allowance for
+doubtful accounts of 3,274 and 3,406, respectively
+
+162,418 
+
+155,332 
+
+inventories
+
+130,088 
+
+131,096 
+
+other current assets
+
+74,835 
+
+80,177 
+
+total current assets
+
+600,164 
+
+619,126 
+
+current liabilities:
+
+accounts payable and accrued liabilities
+
+116,338 
+
+115,058 
+
+accrued compensation
+
+61,484 
+
+78,938 
+
+deferred revenue
+
+59,319 
+
+57,509 
+
+total current liabilities
+
+237,141 
+
+251,505 
+
+working capital
+
+363,023 
+
+367,621 
+
+working capital decreased in the current fiscal year by 4.6 million. current assets
+decreased in the current fiscal year by 19.0 million largely due to a decrease in short term
+marketable investments, offset by higher trade accounts receivable. current liabilities decreased
+in the current fiscal year by 14.4 million, largely as a result of lower accrued compensation
+accruals for current fiscal year annual incentive compensation, and by the cash payment of annual
+incentive compensation in the first quarter of fiscal year 2006 that was accrued in fiscal year
+2005 as described in the sources and uses of cash section above. significant changes in cash and
+cash equivalents and marketable investments are discussed in the sources and uses of cash section
+above.
+
+37
+
+table of contents 
+
+recent accounting pronouncements 
+
+in november 2004, the financial accounting standards board fasb issued sfas no. 151,
+ inventory costs, an amendment of arb no. 43, chapter 4. sfas no. 151 amends the guidance in
+accounting research bulletins arb no. 43, chapter 4, inventory pricing, to clarify the
+accounting for abnormal amounts of idle facility expense, freight, handling costs, and wasted
+material (spoilage). paragraph 5 of arb no. 43, chapter 4, previously stated that . . . under
+some circumstances, items such as idle facility expense, excessive spoilage, double freight, and
+rehandling costs may be so abnormal as to require treatment as current period charges. . . . sfas
+no. 151 requires that those items be recognized as current period charges regardless of whether
+they meet the criterion of so abnormal. in addition, sfas no. 151 requires that allocation of
+fixed production overheads to the costs of conversion be based on the normal capacity of the
+production facilities. the provisions of sfas no. 151 will apply to inventory costs beginning in
+fiscal year 2007. the adoption of sfas no. 151 is not expected to have a material effect on the
+consolidated financial statements of tektronix.
+
+in december 2004, the fasb issued sfas no. 123 (revised 2004), share-based payment sfas
+no. 123r ). this new pronouncement, as interpreted, requires compensation cost relating to
+share-based payment transactions be recognized in financial statements. that cost will be measured
+based on the fair value of the equity or liability instruments issued. sfas no. 123r covers a wide
+range of share-based compensation arrangements including stock options, restricted stock plans,
+performance-based awards, stock appreciation rights, and employee stock purchase plans. sfas no.
+123r replaces sfas no. 123, accounting for stock-based compensation, and supersedes accounting
+principles board opinion apb no. 25, accounting for stock issued to employees. sfas no. 123,
+as originally issued in 1995, established as preferable a fair-value-based method of accounting for
+share-based payment transactions with employees. however, sfas no. 123 permitted entities the
+option of continuing to apply the guidance in apb no. 25, as long as the footnotes to financial
+statements disclosed what net income would have been had the preferable fair-value-based method
+been used. tektronix will be required to adopt the provisions of sfas no. 123r in the first
+quarter of fiscal year 2007. management is currently evaluating the requirements of sfas no. 123r.
+the adoption of sfas no. 123r is expected to have a material effect on the consolidated financial
+statements of tektronix. see note 4 for the pro forma impact on net earnings and earnings per
+share from calculating stock-related compensation cost under the fair value alternative of sfas no.
+123. however, the calculation of compensation cost for share-based payment transactions after the
+effective date of sfas no. 123r may be different from the calculation of compensation cost under
+sfas no. 123, but such differences have not yet been quantified.
+
+in june 2005, the fasb issued sfas no. 154, accounting changes and error corrections a
+replacement of apb no. 20 and fasb statement no. 3. this sfas no. 154 supersedes apb no. 20,
+ accounting changes, and sfas no. 3, reporting accounting changes in interim financial
+statements. this statement applies to all voluntary changes in accounting principle and changes
+required by an accounting pronouncement in the unusual instance that the pronouncement does not
+include specific transition provisions. sfas no. 154 requires retrospective application of changes
+in accounting principle to prior periods financial statements, unless this would be impracticable.
+when it is impracticable to determine the period-specific effects of an accounting change on one
+or more individual prior periods presented, this statement requires that the new accounting
+principle be applied to the balances of assets and liabilities as of the beginning of the earliest
+period for which retrospective application is practicable. this statement also requires that if an
+entity changes its method of depreciation, amortization, or depletion for long-lived, nonfinancial
+assets, the change must be accounted for as a change in accounting estimate. this statement will
+be effective in fiscal year 2007. management does not expect this statement to have a material
+effect on the consolidated financial statements of tektronix.
+
+in november 2005, the fasb issued fasb staff position fsp fas 115-1 and fas 124-1, the
+meaning of other-than-temporary impairment and its application to certain investments. fsp fas
+115-1 and fas 124-1 addresses the determination as to when an investment is considered impaired,
+whether that impairment is other than temporary, and the measurement of an impairment loss. it
+also includes accounting considerations subsequent to the recognition of an other-than-temporary
+impairment and requires certain disclosures about unrealized losses that have not been recognized
+as other-than-temporary impairments. tektronix has adopted this fsp fas 115-1 and fas 124-1
+without a material effect on the consolidated financial statements of tektronix.
+
+38
+
+table of contents 
+
+risks and uncertainties 
+
+described below are some of the risks and uncertainties that could cause actual results to
+differ materially from the results contemplated by the forward-looking statements contained in this
+quarterly report. see forward-looking statements that precedes

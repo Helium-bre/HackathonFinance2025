@@ -2,7 +2,7 @@ import torch
 import numpy as np
 import pandas as pd
 import base
-from LSTM import LSTM_seq2one, LSTM_M2M, SAVENAME
+from core.LSTM import LSTM_seq2one, LSTM_M2M, SAVENAME
 
 
 # comp_210956_01W  
